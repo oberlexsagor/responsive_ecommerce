@@ -1,0 +1,113 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.shop-logo img{
+    width: 250px;
+}
+.header-section{
+    background-color: #FFFBF0;
+}
+.web-menu .nav-item .nav-link{
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+    padding: 0px 25px;
+}
+.top-area{
+    padding: 100px 0px;
+}
+.top-area .header-top{
+    color: orange;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+}
+.top-area .header-bottom{
+    color: #363958;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+}
+.top-information p{
+    font-size: 18px;
+}
+.top-banner img{
+    width: 550px;
+}
+.shop-button {
+    color: #fff;
+    text-decoration: none;
+    background-color: #8DA825;
+    border: 0;
+    padding: 15px 15px;
+    border-radius: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.shop-button:hover{
+    color: #fff;
+    background-color: orange;
+}
+.shop-button i{
+    padding-right: 20px;
+}
+.woman-area h1, .man-area h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+}
+.shop-card{
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 10px 10px 25px gainsboro;
+}
+.shop-card img{
+    height: 450px;
+    padding: 50px;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+.shop-card .card-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #363958;
+}
+.shop-card-footer{
+    background-color: #fff;
+    border: 0;
+}
+.shop-card-footer h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: orange;
+}
+.about-area{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.details-img img{
+    width: 100px;
+}
+.shop-card-details{
+    border: 0;
+    box-shadow: 10px 10px 25px rgba(224, 221, 221, 0.726);
+    border-radius: 20px;
+}
+.shop-card-body h5{
+    color: #3F415F;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.contact-form{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.contact-area h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
